@@ -1,0 +1,2 @@
+round_epochs,loss,val_loss,batch_size,dense2_nodes,dense_layers,epochs,lr,lstm1_nodes,lstm2_nodes,lstm_layers,optimizer,time_steps
+50,0.00041939210071785364,0.04122683545574546,20,20,1,50,0.001,70,40,1,rms,30
